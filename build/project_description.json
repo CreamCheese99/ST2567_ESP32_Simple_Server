@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "ST2567_ESP32_Simple_Server",
-    "project_version":    "1",
+    "project_version":    "323f411-dirty",
     "project_path":       "D:/Esp32_specailTopic/ST2567_ESP32_Simple_Server",
     "idf_path":           "D:/Esp32_specailTopic/v5.2.2/esp-idf",
     "build_dir":          "D:/Esp32_specailTopic/ST2567_ESP32_Simple_Server/build",
